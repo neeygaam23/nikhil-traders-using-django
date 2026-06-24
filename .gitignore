@@ -1,0 +1,38 @@
+# Python (Django)
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# Node (Vite/React)
+node_modules/
+frontend/dist/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
